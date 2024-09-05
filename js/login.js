@@ -22,5 +22,3 @@ function auth(event) {
     }
 }
 
-// Add event listener to the form
-document.querySelector('form').addEventListener('submit', auth);
